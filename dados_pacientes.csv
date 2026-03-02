@@ -1,0 +1,9 @@
+id_usuario,nome,idade,freq_cardiaca_repouso,data_cadastro,mensalidade_plano
+1,Ana Silva,28.0,68.0,15/01/2026,R$ 150.00
+2,Carlos Santos,35.0,72.0,16/01/2026,R$ 200.50
+3,Beatriz Lima,,65.0,16/01/2026,R$ 150.00
+4,Daniel Souza,42.0,80.0,17/01/2026,R$ 300.00
+5,Eduarda Costa,25.0,62.0,18/01/2026,R$ 150.00
+2,Carlos Santos,35.0,72.0,16/01/2026,R$ 200.50
+6,Fernanda Alves,,,19/01/2026,R$ 200.50
+7,Gabriel Rocha,30.0,70.0,20/01/2026,R$ 150.00

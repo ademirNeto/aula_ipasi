@@ -1,0 +1,19 @@
+# 📊 Tratamento de Dados com Python: Da Ingestão à Modelagem
+
+Repositório estruturado para a aula demonstrativa do processo seletivo docente da pós-graduação do **IPASI (Instituto de Pesquisas Avançadas e Soluções Inovadoras)**.
+
+## 🎯 Objetivo da Aula
+Demonstrar na prática o pipeline metodológico e técnico de preparação de dados para modelos de Inteligência Artificial e análises estatísticas. O escopo abrange:
+- Diagnóstico de inconsistências estruturais e de tipagem.
+- Limpeza de dados e garantia de integridade.
+- Imputação estatística fundamentada para valores nulos (NaN).
+- Feature Engineering focada em séries temporais e regras de negócio.
+
+## 📂 Estrutura do Repositório
+- `aula_ipasi.ipynb`: Jupyter Notebook contendo o roteiro didático, fundamentação teórica em Markdown e os blocos de código desenvolvidos.
+- `dados_pacientes.csv`: Dataset sintético utilizado para a demonstração guiada inicial.
+
+## 🚀 Como Executar Localmente
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/ademirNeto/aula_ipasi.git](https://github.com/ademirNeto/aula_ipasi.git)
